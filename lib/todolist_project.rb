@@ -160,3 +160,6 @@ class TodoList
     each { |todo| todo.undone! }
   end
 end
+
+# doc
+var = 'docccc'
